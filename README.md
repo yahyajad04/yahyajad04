@@ -8,22 +8,12 @@ I am a backend-focused developer based in **Amman, Jordan**, with strong experti
 ### Tech Stack & Skills
 
 **Languages & Frameworks**
-**C#**
-**ASP.NET Core**
-**Python**
-**Java**
-**SQL**
-**Flutter**
-**Dart**
-**JavaScript**
+
+**C#**, **ASP.NET Core**, **Python**, **Java**, **SQL**, **Flutter**, **Dart**, **JavaScript**.
 
 **Tools & Platforms**
-**GitHub**
-Postman
-Linux
-**AWS**
-Figma
-**Visual Studio**
+
+**GitHub**, Postman, Linux, **AWS**, Figma, **Visual Studio**
 
 ---
 
