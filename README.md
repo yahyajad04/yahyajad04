@@ -7,13 +7,9 @@ I am a backend-focused developer based in **Amman, Jordan**, with strong experti
 
 ### Tech Stack & Skills
 
-**Languages & Frameworks**
+**Languages & Frameworks**: **C#**, **ASP.NET Core**, **Python**, **Java**, **SQL**, **Flutter**, **Dart**, **JavaScript**.
 
-**C#**, **ASP.NET Core**, **Python**, **Java**, **SQL**, **Flutter**, **Dart**, **JavaScript**.
-
-**Tools & Platforms**
-
-**GitHub**, Postman, Linux, **AWS**, Figma, **Visual Studio**
+**Tools & Platforms**: **GitHub**, Postman, Linux, **AWS**, Figma, **Visual Studio**
 
 ---
 
@@ -45,8 +41,11 @@ Benchmarked Neural Networks vs. Ensemble methods (Random Forest, Decision Trees)
 *2022 - 2027 (Expected) | Current GPA: 3.53/4
 
 **Full Stack Development (ASP.NET Core) & Flutter** (11/2025) 
-**Linux Fundamentals** (06/2025) 
+
+**Linux Fundamentals** (06/2025)
+
 **Introduction to Web Applications** (07/2025)
+
 **Web Requests** (07/2025) 
 
 
