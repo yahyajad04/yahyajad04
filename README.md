@@ -21,7 +21,7 @@ Developed a Role-Based system with Admin, Student, and Teacher roles.
 **Frontend:** MVC project consuming the API using `HttpClient`, styled with **Bootswatch** and **AdminLTE**.
 **Key Features:** Full CRUD operations restricted by user role.
 
-#### **Course Academy (2/2026)
+#### **Course Academy** (2/2026)
 Developed a role-based system supporting multiple user types with secure authentication and verification mechanisms.
 Architected the project using **clean design principles, leveraging abstraction layers, service patterns, and DTOs** for maintainability and scalability.
 Built advanced data handling capabilities, including **search, filtering, and pagination**, to enhance performance and user experience.
