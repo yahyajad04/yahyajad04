@@ -15,6 +15,14 @@ I am a backend-focused developer based in **Amman, Jordan**, with strong experti
 
 ###  My Projects
 
+#### **BANKING SYSTEM API** (2/2026) 
+Developed a secure RESTful Banking API with JWT Authentication and ASP.NET Identity (Admin, Employee, Customer 
+roles). 
+Implemented multi-account management with approval workflows and **transaction tracking** (Deposit, Withdraw, 
+Transfer, Loan). 
+Built loan processing with interest calculation and **transaction logging**. 
+Applied optimistic **concurrency control** (RowVersion) and **Repository Pattern** for data integrity. 
+
 #### **University Management System** (ASP.NET Core)
 Developed a Role-Based system with Admin, Student, and Teacher roles.
 **Backend:** Secured RESTful API with **JWT Authentication** and multiple endpoints.
